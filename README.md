@@ -4,6 +4,9 @@ I’m a Computer Science graduate passionate about **AI/ML**, **Unity game devel
 
 ## 🚀 Featured Projects
 
+- 🎞️ [Meesh: Movie Matching](https://github.com/JohnArmstrong117/MovieMatch)
+  Cross-Platform Mobile Platform built for Movie and TV Discovery and Social Recommendation. An app to make movie nights a breeze.
+
 - 🎧 [Audio Summarizer Project](https://github.com/JohnArmstrong117/AudioSummarizerProject)  
   Voicemail-to-text pipeline with summarization, combining speech recognition and LLMs.  
 
